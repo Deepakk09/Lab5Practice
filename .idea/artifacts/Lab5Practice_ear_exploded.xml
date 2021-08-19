@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Lab5Practice:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab5Practice_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Lab5Practice/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+        <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
+        <element id="library" level="project" name="JavaeeSecurity-1.0" />
+      </element>
+    </root>
+  </artifact>
+</component>
